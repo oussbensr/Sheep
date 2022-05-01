@@ -1,0 +1,2 @@
+C:\Users\Acer\Desktop\Introduction to Scripting Part 2 Starter\obj\Debug\Unity.Rider.Editor.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Introduction to Scripting Part 2 Starter\obj\Debug\Unity.Rider.Editor.csproj.CoreCompileInputs.cache

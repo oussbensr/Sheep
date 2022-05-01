@@ -1,0 +1,2 @@
+C:\Users\Acer\Desktop\Introduction to Scripting Part 2 Starter\obj\Debug\UnityEditor.UI.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Introduction to Scripting Part 2 Starter\obj\Debug\UnityEditor.UI.csproj.CoreCompileInputs.cache
